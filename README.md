@@ -11,7 +11,7 @@
 
 - **Exercice 1** — [calcul-c](https://github.com/anas32a/calcul-c)
 - **Exercice 2** — [calcul-c-equipe](https://github.com/Zakaria-Coder-eng/calcul-c-equipe)
-- **Pull request fusionnée** — [Ajout de la fonction produit](https://github.com/Zakaria-Coder-eng/calcul-c-equipe/pull/NUMERO_PR)
+- **Pull request fusionnée** — [Ajout de la fonction produit](https://github.com/Zakaria-Coder-eng/calcul-c-equipe/pull/1)
 
 ## Bilan des commandes Git
 
